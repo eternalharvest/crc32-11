@@ -1,6 +1,7 @@
 CRC32 Implementation with C++11 (constexpr)
 ====
 [![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/eternalharvest/crc32-11/master/LICENSE)
+[![Build Status](https://travis-ci.org/eternalharvest/crc32-11.svg?branch=master)](https://travis-ci.org/eternalharvest/crc32-11)
 
 ## Abstract
 This is one of the CRC32 implementation with C++ generics template and C++11 constexpr feature.
